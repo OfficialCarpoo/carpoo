@@ -8,13 +8,13 @@ Available on Google Play and Indus Appstore.
 
 ## Flow
 
- ### 🚗 Book rides
- ### 🚘 Publish rides
- ### 🛡️ Identity verification
- ### ⭐ Trust Score System
- ### 💬 Secure Messaging
- ### 🤖 AI Assistant
- ### 📍 Smart Ride Matching
+ ## 🚗 Book rides
+ ## 🚘 Publish rides
+ ## 🛡️ Identity verification
+ ## ⭐ Trust Score System
+ ## 💬 Secure Messaging
+ ## 🤖 AI Assistant
+ ## 📍 Smart Ride Matching
 
 ## Why Carpoo?
 
