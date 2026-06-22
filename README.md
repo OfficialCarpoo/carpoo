@@ -6,6 +6,8 @@ A modern ride-sharing and carpooling platform designed to make travel more affor
 
 Available on Google Play and Indus Appstore.
 
+## Flow
+
 🚗 Book rides
 🚘 Publish rides
 🛡️ Identity verification
