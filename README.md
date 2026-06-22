@@ -70,27 +70,18 @@ The result is:
 ---
 
 ## Discover
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img width="1024" height="1536" alt="1c" src="https://github.com/user-attachments/assets/edc22188-f8f3-4965-b6c2-8e681c94788a" />
-      <br><b>Home Screen</b>
-    </td>
-    <td align="center" width="33%">
-      <img width="1024" height="1536" alt="3c" src="https://github.com/user-attachments/assets/b8bf7a6e-7f67-4d97-996f-d7d0b1dc58bd" />
-      <br><b>Profile Screen</b>
-    </td>
-    <td align="center" width="33%">
-      <img width="1024" height="1536" alt="2c" src="https://github.com/user-attachments/assets/d9e5fef8-d32b-4403-bd2a-7ea79fd712f1" />
-      <br><b>Settings Screen</b>
-    </td>
-    <td align="center" width="33%">
-      <img width="1024" height="1536" alt="6c" src="https://github.com/user-attachments/assets/f05ad61d-3743-4da5-bf2a-b87eb8496bea" />
-      <br><b>Settings Screen</b>
-    </td>
-    
-  </tr>
-</table>
+<h2 align="center">📱 Carpoo Experience</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/edc22188-f8f3-4965-b6c2-8e681c94788a" width="170"/>
+  <img src="https://github.com/user-attachments/assets/b8bf7a6e-7f67-4d97-996f-d7d0b1dc58bd" width="170"/>
+  <img src="https://github.com/user-attachments/assets/d9e5fef8-d32b-4403-bd2a-7ea79fd712f1" width="170"/>
+  <img src="https://github.com/user-attachments/assets/f05ad61d-3743-4da5-bf2a-b87eb8496bea" width="170"/>
+  <img src="https://github.com/user-attachments/assets/13dc22b9-4aa9-49b0-a939-572995f20c07" width="170"/>
+  <img src="https://github.com/user-attachments/assets/bb54b52c-5328-4e5d-99cb-b1c612b3beb4" width="170"/>
+  <img src="https://github.com/user-attachments/assets/a1a4ecc1-bb8f-4919-afc8-0403ef928b96" width="170"/>
+  <img src="https://github.com/user-attachments/assets/4953e684-b965-4b1d-8b67-c945e5ec178f" width="170"/>
+</p>
 
 <img width="1024" height="1536" alt="1c" src="https://github.com/user-attachments/assets/edc22188-f8f3-4965-b6c2-8e681c94788a" />
 <img width="1024" height="1536" alt="3c" src="https://github.com/user-attachments/assets/b8bf7a6e-7f67-4d97-996f-d7d0b1dc58bd" />
