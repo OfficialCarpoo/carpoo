@@ -47,11 +47,8 @@ Carpoo connects riders and drivers already travelling on similar routes, helping
 
 - ## Links
 
-🌐 Website
-[<website-link>](https://carpoo.in)
+🌐 Website: https://carpoo.in
 
-📱 Google Play
-[<playstore-link>](https://play.google.com/store/apps/details?id=com.carpoo.app)
+📱 Google Play: https://play.google.com/store/apps/details?id=com.carpoo.app
 
-📱 Indus Appstore
-[<indus-link>](https://www.indusappstore.com/apps/travel-and-local/carpoo/com.carpoo.app)
+📱 Indus Appstore: https://www.indusappstore.com/apps/travel-and-local/carpoo/com.carpoo.app
