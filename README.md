@@ -45,7 +45,7 @@ Carpoo connects riders and drivers already travelling on similar routes, helping
 - Capacitor
 - Google APIs
 
-- ## Links
+## Links
 
 🌐 Website: https://carpoo.in
 
