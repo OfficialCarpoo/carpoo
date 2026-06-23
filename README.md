@@ -1,10 +1,19 @@
+<div align="center">
+  
 # Carpoo
 
 ### Go With The Flow
+<p align="center">
+  <img width="100%" alt="Carpoox Hero Banner"
+       src="https://github.com/user-attachments/assets/779d068e-a7c3-4c3a-8ee5-36512190a64d" />
+</p>
 
 Carpoo is a modern ride-sharing and carpooling platform built to make travel more affordable, trusted and sustainable.
-
 By connecting people already travelling on similar routes, Carpoo helps riders reduce travel costs while enabling drivers to share unused seats and recover fuel expenses.
+
+[🌐 Website](https://carpooxofficial.web.app) • [📱 Google Play Store](https://play.google.com/store/apps/details?id=com.carpoo.app) • [📱 Indus App Store](https://www.indusappstore.com/apps/travel-and-local/carpoo/com.carpoo.app)
+
+</div>
 
 ---
 
@@ -70,6 +79,18 @@ The result is:
 ---
 
 ## Discover
+  
+<h2 align="center">Product Preview</h2>
+
+<p align="center">
+  <img width="100%" alt="Carpoox Banner"
+             src="https://github.com/user-attachments/assets/107f8d70-899c-4559-ac3d-5364de1c7ca0" />
+</p>
+
+
+
+<br/>
+
 <h2 align="center">📱 Carpoo Experience</h2>
 
 <p align="center">
@@ -85,15 +106,6 @@ The result is:
 
 ---
 
-## Live Links
-
-🌐 Website: https://carpoo.in
-
-📱 Google Play: https://play.google.com/store/apps/details?id=com.carpoo.app
-
-📱 Indus Appstore: https://www.indusappstore.com/apps/travel-and-local/carpoo/com.carpoo.app
-
----
 
 ## Vision
 
@@ -123,4 +135,10 @@ Founder, Carpoo
 
 ## License
 
-This project is licensed under the MIT License.
+Copyright © Carpoo.
+
+All Rights Reserved.
+
+This repository is provided for informational and portfolio purposes only.
+
+Unauthorized copying, redistribution, modification, reverse engineering, or commercial use of any part of Carpoox without explicit written permission is prohibited.
